@@ -8,7 +8,7 @@
 
 
 
-## Delighted to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
+## Delighted to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=manishkc104.manishkc104)
 
 I am a frontend engineer who spends most of their day talking to machines and occasionally to actual people. I specialize in crafting beautiful and functional websites and applications that don't crash (most of the time).
 
