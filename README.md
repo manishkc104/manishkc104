@@ -102,6 +102,13 @@ So if you're looking for someone to turn your design ideas into a reality, I'm y
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishkc104&show_icons=true&locale=en" alt="manishkc104" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishkc104&" alt="manishkc104" /></p> -->
+
+## 📕Blog Posts
+
+- [Optimistic and Pessimistic UI Rendering](https://dev.to/manishkc104/optimistic-and-pessimistic-ui-rendering-2n55)
+- [Arrays in JavaScript: A Cheat sheet for a developer](https://dev.to/manishkc104/arrays-in-javascript-a-cheat-sheet-for-a-developer-3644)
+- [Debounce Input in React](https://dev.to/manishkc104/debounce-input-in-react-3726)
+
     
     
     
